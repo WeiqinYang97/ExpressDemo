@@ -16,7 +16,7 @@
 //             resolve('success');
 //         }
 //         else {
-//             reject('error');
+//             reject('error');  
 //         }
 //     }, 1000);
 // });
